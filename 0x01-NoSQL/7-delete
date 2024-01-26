@@ -1,1 +1,2 @@
 // delete spacific doc in school
+db.school.deleteMany({name:"Holberton school"})
